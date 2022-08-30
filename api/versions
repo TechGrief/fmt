@@ -1,7 +1,7 @@
 {
    "updater":"1.01",
-   "manager":"1.01",
-   "cfgmgr":"1.01",
-   "cfgwriter":"1.01",
-   "cfgreader":"1.01"
+   "manager":"2.01",
+   "cfgmgr":"3.01",
+   "cfgwriter":"4.01",
+   "cfgreader":"5.01"
 }
